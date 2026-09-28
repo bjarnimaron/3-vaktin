@@ -1,0 +1,16 @@
+{
+  "name": "bjarnimaron",
+  "owner": {
+    "name": "Bjarni Maron Sigurðsson"
+  },
+  "metadata": {
+    "description": "3-vaktin: skill sem tekur hluta af þriðju vaktinni af foreldrum."
+  },
+  "plugins": [
+    {
+      "name": "3-vaktin",
+      "source": "./",
+      "description": "Tekur við hluta af þriðju vaktinni: setur upp daglega morgunsamantekt og kvöldáminningu fyrir foreldra úr skólapósti, stundatöflu, skóladagatali og Abler-æfingum."
+    }
+  ]
+}
